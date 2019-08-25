@@ -1,0 +1,7 @@
+F:\teach\xcEdu\xcEduService01\xc-service-manage-order\src\main\java\com\xuecheng\order\ManageOrderApplication.java
+F:\teach\xcEdu\xcEduService01\xc-service-manage-order\src\main\java\com\xuecheng\order\service\TaskService.java
+F:\teach\xcEdu\xcEduService01\xc-service-manage-order\src\main\java\com\xuecheng\order\dao\XcTaskHisRepository.java
+F:\teach\xcEdu\xcEduService01\xc-service-manage-order\src\main\java\com\xuecheng\order\mq\ChooseCourseTask.java
+F:\teach\xcEdu\xcEduService01\xc-service-manage-order\src\main\java\com\xuecheng\order\config\RabbitMQConfig.java
+F:\teach\xcEdu\xcEduService01\xc-service-manage-order\src\main\java\com\xuecheng\order\config\AsyncTaskConfig.java
+F:\teach\xcEdu\xcEduService01\xc-service-manage-order\src\main\java\com\xuecheng\order\dao\XcTaskRepository.java

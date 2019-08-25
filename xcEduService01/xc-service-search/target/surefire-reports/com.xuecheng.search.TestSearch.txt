@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.xuecheng.search.TestSearch
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 4.457 s <<< FAILURE! - in com.xuecheng.search.TestSearch
+testSearchAll(com.xuecheng.search.TestSearch)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.xuecheng.search.service.EsCourseService] from ClassLoader [sun.misc.Launcher$AppClassLoader@28d93b30]
+Caused by: java.lang.NoClassDefFoundError: com/xuecheng/framework/model/response/ResultCode
+Caused by: java.lang.ClassNotFoundException: com.xuecheng.framework.model.response.ResultCode
+
+testfenye(com.xuecheng.search.TestSearch)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.xuecheng.search.service.EsCourseService] from ClassLoader [sun.misc.Launcher$AppClassLoader@28d93b30]
+Caused by: java.lang.NoClassDefFoundError: com/xuecheng/framework/model/response/ResultCode
+Caused by: java.lang.ClassNotFoundException: com.xuecheng.framework.model.response.ResultCode
+

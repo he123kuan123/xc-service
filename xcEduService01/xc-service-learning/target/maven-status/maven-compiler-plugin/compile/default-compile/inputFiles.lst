@@ -1,0 +1,8 @@
+F:\teach\xcEdu\xcEduService01\xc-service-learning\src\main\java\com\xuecheng\learning\dao\XcLearningCourseRepository.java
+F:\teach\xcEdu\xcEduService01\xc-service-learning\src\main\java\com\xuecheng\learning\client\CourseSearchClient.java
+F:\teach\xcEdu\xcEduService01\xc-service-learning\src\main\java\com\xuecheng\learning\controller\CourseLearningController.java
+F:\teach\xcEdu\xcEduService01\xc-service-learning\src\main\java\com\xuecheng\learning\config\RabbitMQConfig.java
+F:\teach\xcEdu\xcEduService01\xc-service-learning\src\main\java\com\xuecheng\learning\service\LearningService.java
+F:\teach\xcEdu\xcEduService01\xc-service-learning\src\main\java\com\xuecheng\learning\mq\ChooseCourseTask.java
+F:\teach\xcEdu\xcEduService01\xc-service-learning\src\main\java\com\xuecheng\learning\dao\XcTaskHisRepository.java
+F:\teach\xcEdu\xcEduService01\xc-service-learning\src\main\java\com\xuecheng\learning\LearningApplication.java

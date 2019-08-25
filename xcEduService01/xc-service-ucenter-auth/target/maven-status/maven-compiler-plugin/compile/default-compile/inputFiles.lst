@@ -1,0 +1,9 @@
+F:\teach\xcEdu\xcEduService01\xc-service-ucenter-auth\src\main\java\com\xuecheng\auth\controller\AuthController.java
+F:\teach\xcEdu\xcEduService01\xc-service-ucenter-auth\src\main\java\com\xuecheng\auth\UcenterAuthApplication.java
+F:\teach\xcEdu\xcEduService01\xc-service-ucenter-auth\src\main\java\com\xuecheng\auth\service\AuthService.java
+F:\teach\xcEdu\xcEduService01\xc-service-ucenter-auth\src\main\java\com\xuecheng\auth\service\UserJwt.java
+F:\teach\xcEdu\xcEduService01\xc-service-ucenter-auth\src\main\java\com\xuecheng\auth\config\CustomUserAuthenticationConverter.java
+F:\teach\xcEdu\xcEduService01\xc-service-ucenter-auth\src\main\java\com\xuecheng\auth\config\AuthorizationServerConfig.java
+F:\teach\xcEdu\xcEduService01\xc-service-ucenter-auth\src\main\java\com\xuecheng\auth\service\UserDetailsServiceImpl.java
+F:\teach\xcEdu\xcEduService01\xc-service-ucenter-auth\src\main\java\com\xuecheng\auth\client\UserClient.java
+F:\teach\xcEdu\xcEduService01\xc-service-ucenter-auth\src\main\java\com\xuecheng\auth\config\WebSecurityConfig.java

@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: com.xuecheng.manage_course.dao.TestDao
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 11.72 s <<< FAILURE! - in com.xuecheng.manage_course.dao.TestDao
+testCourseMapper(com.xuecheng.manage_course.dao.TestDao)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.xuecheng.manage_course.ManageCourseApplication]; nested exception is java.io.FileNotFoundException: class path resource [com/xuecheng/framework/web/BaseController.class] cannot be opened because it does not exist
+Caused by: java.io.FileNotFoundException: class path resource [com/xuecheng/framework/web/BaseController.class] cannot be opened because it does not exist
+
+testCourseBaseRepository(com.xuecheng.manage_course.dao.TestDao)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.xuecheng.manage_course.ManageCourseApplication]; nested exception is java.io.FileNotFoundException: class path resource [com/xuecheng/framework/web/BaseController.class] cannot be opened because it does not exist
+Caused by: java.io.FileNotFoundException: class path resource [com/xuecheng/framework/web/BaseController.class] cannot be opened because it does not exist
+
+testPageHalper(com.xuecheng.manage_course.dao.TestDao)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.xuecheng.manage_course.ManageCourseApplication]; nested exception is java.io.FileNotFoundException: class path resource [com/xuecheng/framework/web/BaseController.class] cannot be opened because it does not exist
+Caused by: java.io.FileNotFoundException: class path resource [com/xuecheng/framework/web/BaseController.class] cannot be opened because it does not exist
+
+testFindTeachplan(com.xuecheng.manage_course.dao.TestDao)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.xuecheng.manage_course.ManageCourseApplication]; nested exception is java.io.FileNotFoundException: class path resource [com/xuecheng/framework/web/BaseController.class] cannot be opened because it does not exist
+Caused by: java.io.FileNotFoundException: class path resource [com/xuecheng/framework/web/BaseController.class] cannot be opened because it does not exist
+

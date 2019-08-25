@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: com.xuecheng.search.TestIndex
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 16.173 s <<< FAILURE! - in com.xuecheng.search.TestIndex
+testDeleteIndex(com.xuecheng.search.TestIndex)  Time elapsed: 0.132 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.xuecheng.search.service.EsCourseService] from ClassLoader [sun.misc.Launcher$AppClassLoader@28d93b30]
+Caused by: java.lang.NoClassDefFoundError: com/xuecheng/framework/model/response/ResultCode
+Caused by: java.lang.ClassNotFoundException: com.xuecheng.framework.model.response.ResultCode
+
+testCreateIndex(com.xuecheng.search.TestIndex)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.xuecheng.search.service.EsCourseService] from ClassLoader [sun.misc.Launcher$AppClassLoader@28d93b30]
+Caused by: java.lang.NoClassDefFoundError: com/xuecheng/framework/model/response/ResultCode
+Caused by: java.lang.ClassNotFoundException: com.xuecheng.framework.model.response.ResultCode
+
+testAddDoc(com.xuecheng.search.TestIndex)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.xuecheng.search.service.EsCourseService] from ClassLoader [sun.misc.Launcher$AppClassLoader@28d93b30]
+Caused by: java.lang.NoClassDefFoundError: com/xuecheng/framework/model/response/ResultCode
+Caused by: java.lang.ClassNotFoundException: com.xuecheng.framework.model.response.ResultCode
+
+testGetDoc(com.xuecheng.search.TestIndex)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.xuecheng.search.service.EsCourseService] from ClassLoader [sun.misc.Launcher$AppClassLoader@28d93b30]
+Caused by: java.lang.NoClassDefFoundError: com/xuecheng/framework/model/response/ResultCode
+Caused by: java.lang.ClassNotFoundException: com.xuecheng.framework.model.response.ResultCode
+
